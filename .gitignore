@@ -2,3 +2,7 @@
 *.log
 chromedriver
 *.zip
+**/.ipynb_checkpoints
+.vscode
+
+!dataset_full.json
